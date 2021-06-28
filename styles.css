@@ -9,7 +9,7 @@ h1 {
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  color: Gold;
+  color: #11999E;
 
 }
 
@@ -29,23 +29,29 @@ h3 {
   color: #11999E;
 }
 
-
 hr{
-  border: dotted #EAF6F6;
+  border: dotted #DDDDDD 6px;
+  border-bottom: none;
+  width: 4%;
   margin: 100px auto;
 }
 
+
 .cont
 {
-  font-family: 'Sacramento', sans-serif;
-  color: gold;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
   font-weight: normal;
 }
 
+.Contact-message{
+  width: 30%;
+  margin: 20px auto 50px auto;
+}
 
 .contact-info
 {
-  background-color: #11999E;
+  background-color: #DBF6E9;
 }
 
 .skill-row
@@ -57,7 +63,7 @@ hr{
 
 .Programmer
 {
-  color: Gold;
+  color: #11999E;
 }
 
 
@@ -89,7 +95,7 @@ hr{
 
 
 .top-container {
-  background-color: #5AA897;
+  background-color: #DBF6E9;
   position: relative;
   padding-top: 150px;
   width: 100%;
@@ -112,12 +118,12 @@ hr{
 
 .middle-container {
   margin: 0 auto;
-  background-color: gold;
+  background-color: #FDFAF6;
   padding-bottom: 50px;
 }
 
 .bottom-container {
-  background-color: #5AA897;
+  background-color: #DBF6E9;
   margin: 0 auto;
   padding-top: 20px;
   padding-bottom:10px;
@@ -125,25 +131,23 @@ hr{
 
 .btn:hover
 {
-  background-color: gold;
+  background-color: #11999E;
 }
 
 .btn1:hover
 {
-  background-color: gold;
+  background-color: #11999E;
 }
 
 .btn2:hover
 {
-  background-color: gold;
+  background-color: #11999E;
 }
-
-
 
 .top-cloud {
   position: absolute;
-  right: 500px;
-  top: 90px;
+  right: 520px;
+  top: 110px;
 }
 
 .bottom-cloud {
